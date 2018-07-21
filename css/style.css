@@ -1,0 +1,105 @@
+
+.profile-body{
+	background-color: #F0F0F0;
+}
+.navbar-color{
+	background-color: #075E54;
+	color:#FFFFFF;
+}
+
+.spacer-11{
+	margin-top: 11vh;
+}
+.border-bottom-thick{
+	border-bottom-style:solid;
+	border-bottom-width: thick;
+	color: white;
+}
+.title{
+	font-size:1.5em;
+}
+.height-5{
+	height:5vh;
+}
+.height-7{
+	height:7vh;
+}
+.height-10{
+	height:10vh;
+}
+.height-15{
+	height:15vh;
+}
+.height-70{
+	height:70vh;
+}
+.height-100{
+	height:100vh;
+}
+.img-fit{
+height:80%;
+width:100%;
+}
+.img-chat{
+height:50%;
+width:80%;
+}
+.container-40{
+	height:40vh;
+
+}
+.profile-fit{
+	height: 80%;
+}
+.white-bg{
+background-color: #FFFFFF;
+}
+.green-bg{
+background-color: #075E54;
+}
+.green{
+color: #075E54;
+}
+.white{
+color:#FFFFFF;
+}
+.helvetica{
+
+}
+.chat-green{
+background-color:#E2FFC8;
+}
+.chat-white{
+background-color:#FFFFFF;
+}
+.small{
+font-size:0.6rem;
+}
+.badge-date{
+background-color:#D4EAF4;
+color:#000000;
+font-weight: lighter;
+}
+footer{
+position:sticky;
+	width:100% :;
+	bottom: 0;
+	background-image:url('images/background.jpg');
+}
+.chat-round{
+border-radius: 3.5vh 3.5vh 3.5vh 3.5vh;
+}
+.left-scroll{
+position:absolute;
+	left:0;
+	top:0;
+	bottom:0 ;
+	overflow-y: scroll;
+}
+.right-scroll{
+	position:absolute;
+	right:0;
+	top:0;
+	bottom:0 ;
+	overflow-y: scroll;
+}
